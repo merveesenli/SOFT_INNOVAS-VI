@@ -1,0 +1,1 @@
+SoqlAssignment.sixCharacter();

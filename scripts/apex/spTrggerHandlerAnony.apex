@@ -1,0 +1,2 @@
+SalesforceProjectTriggerHandler.insertSFProject();
+SalesforceProjectTriggerHandler.updateSFProject();
